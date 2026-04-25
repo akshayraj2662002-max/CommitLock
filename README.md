@@ -9,6 +9,8 @@ CommitLock is a cross-platform (Android, iOS, Web) Flutter accountability applic
 | Dashboard | New Commitment |
 |:---:|:---:|
 | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097937836.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097949417.png" width="300"/> |
+<img width="599" height="885" alt="image" src="https://github.com/user-attachments/assets/22806b46-c333-4c7d-983f-076da5e57136" />
+
 
 | Active Session | Result Screen |
 |:---:|:---:|
