@@ -4,6 +4,22 @@ CommitLock is a cross-platform (Android, iOS, Web) Flutter accountability applic
 
 ---
 
+## 📸 App Screenshots
+
+| Dashboard | New Commitment |
+|:---:|:---:|
+| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097937836.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097949417.png" width="300"/> |
+
+| Active Session | Result Screen |
+|:---:|:---:|
+| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098012803.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098043537.png" width="300"/> |
+
+| History | Login |
+|:---:|:---:|
+| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098058541.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097902084.png" width="300"/> |
+
+---
+
 ## 🎯 Features Completed
 - **Full Application Flow:** Splash screen, Login, Dashboard, New Commitment setup, Active Session tracker, and Result Screen.
 - **Accountability & Penalties:** Users specify a required habit category, duration, "Restriction Level" (normal, strict, extreme), and a mock penalty amount.
