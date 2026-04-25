@@ -7,18 +7,19 @@ CommitLock is a cross-platform (Android, iOS, Web) Flutter accountability applic
 ## 📸 App Screenshots
 
 | Dashboard | New Commitment |
-|:---:|:---:|
-| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097937836.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097949417.png" width="300"/> |
+
 <img width="599" height="885" alt="image" src="https://github.com/user-attachments/assets/22806b46-c333-4c7d-983f-076da5e57136" />
+<img width="622" height="910" alt="image" src="https://github.com/user-attachments/assets/44b4eb02-1b30-4532-9a21-dbb4791cdd02" />
 
 
 | Active Session | Result Screen |
 |:---:|:---:|
-| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098012803.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098043537.png" width="300"/> |
+<img width="618" height="899" alt="image" src="https://github.com/user-attachments/assets/390ce86f-1ca3-4e35-8e40-55bef20fc432" />
+<img width="619" height="911" alt="image" src="https://github.com/user-attachments/assets/6b2961ca-fb28-40fc-8d35-bf7f83a9ed34" />
 
-| History | Login |
-|:---:|:---:|
-| <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777098058541.png" width="300"/> | <img src="file:///C:/Users/aksha/.gemini/antigravity/brain/6fc35127-6cb2-4013-89b6-16bf052b683f/.system_generated/click_feedback/click_feedback_1777097902084.png" width="300"/> |
+| History | 
+<img width="623" height="901" alt="image" src="https://github.com/user-attachments/assets/a18bdef8-5f99-4b7c-b451-b94cbba99ac7" />
+
 
 ---
 
